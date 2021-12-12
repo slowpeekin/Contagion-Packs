@@ -1,0 +1,26 @@
+<Trader> Contagion Packs
+
+	<Category> Contagion Packs
+		Contagion_Rucksack_Black,				*,		20000,		1000
+		Contagion_Rucksack_Camo,				*,		20000,		1000
+		Contagion_Rucksack_Desert,				*,		20000,		1000
+		Contagion_Rucksack_Digital,				*,		20000,		1000
+		Contagion_Bag_BigMilitaryBag_Black,		*,		20000,		1000
+		Contagion_Bag_BigMilitaryBag_Tan,		*,		20000,		1000
+		Contagion_Bag_BigMilitaryBag_Green,		*,		20000,		1000
+		Contagion_Bag_BigMilitaryBag_NWU,		*,		20000,		1000
+		Contagion_Bag_BigMilitaryBag_EMR,		*,		20000,		1000
+		Contagion_Bag_BigMilitaryBag_UCP,		*,		20000,		1000
+		Contagion_Bag_BigMilitaryBag_MARPAT,	*,		20000,		1000
+		Contagion_Bag_MarchingBag_black,		*,		20000,		1000
+		Contagion_Bag_MarchingBag_co,			*,		20000,		1000
+		Contagion_Bag_Rifle_MARPAT,				*,		20000,		1000
+		Contagion_Bag_Rifle_UCP,				*,		20000,		1000
+		Contagion_Bag_Rifle_NWU,				*,		20000,		1000
+		Contagion_Bag_Rifle_EMR,				*,		20000,		1000
+		Contagion_Bag_Rifle_Green,				*,		20000,		1000
+		Contagion_Bag_Rifle_Tan,				*,		20000,		1000
+		Contagion_Bag_Rifle_Grey,				*,		20000,		1000
+		Contagion_Bag_Rifle_Black,				*,		20000,		1000
+
+<FileEnd>
